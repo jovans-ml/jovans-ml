@@ -1,4 +1,5 @@
-# 💫 About Me:
+# About Me:
+Kasoma Jovans
 Ai engineer | Developer<br>
 
 
