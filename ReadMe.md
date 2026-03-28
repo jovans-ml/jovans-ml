@@ -1,6 +1,5 @@
 # About Me:
-Kasoma Jovans
-Ai engineer | Developer<br>
+Ai engineer | Webdev| Developer<br>
 
 
 ## 🌐 Socials:
